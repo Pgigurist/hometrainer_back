@@ -1,0 +1,128 @@
+<xml>
+    <checklist>
+        <exercise>
+           <title>бег на месте</title>
+           <description>
+               продолжительность: 1 х 2 мин
+           </description>
+           <repetition>1</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>высокое поднимение колен/захлест голени</title>
+           <description>
+              высокое поднимение чередовать с захлестом голени
+              один повтор = 2 упражнения
+              продолжительность одного повнторения:
+              10+10 сек.
+           </description>
+           <repetition>4</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>прыжк вверх с двух ног на две ноги</title>
+           <description>
+               максимальное зависание, в воздухе носки натянуты в пол.
+               Одна серия - 16 прыжков
+           </description>
+           <repetition>2</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>1-е прыжки со скакалкой</title>
+           <description>
+               2 серии по 50 прыжков
+           </description>
+           <repetition>2</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>2-е прыжки со скакалкой</title>
+           <description>
+               3 серии по 40 прыжков
+           </description>
+           <repetition>3</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>махи ногами крестом</title>
+           <description>
+               3 серии по 30 махов в каждую сторону
+               (одна серия это полностью исполненные 2 ноги)
+           </description>
+           <repetition>3</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>туры 1 оборот в разные стороны</title>
+           <description>
+               с двух ног на две
+               3 серии по 5 прыжков (за один считается исполнение в обе стороны)
+           </description>
+           <repetition>3</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>прыжок вверх + выезд в баланс</title>
+           <description>
+               приземление поочередно на левую и правую ноги
+               удержание выезда 5 секунд
+               2 серии по 5 прыжков (за один считается исполнение с двух ног)
+           </description>
+           <repetition>2</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>туры 2 оборота</title>
+           <description>
+               удержание выезда 5 секунд
+               2 серии по 5 прыжков
+           </description>
+           <repetition>2</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>вращение на спиннере (винт)</title>
+           <description>
+                10 повторений, 15 оборотов минимум
+               (чередование ног, за один считается исполнение с двух ног)
+           </description>
+           <repetition>5</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>вращение на спиннере (волчок)</title>
+           <description>
+                10 повторений, 8 оборотов минимум
+               (чередование ног, за один считается исполнение с двух ног)
+           </description>
+           <repetition>5</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>вращение на спиннере (либела)</title>
+           <description>
+                10 повторений, 8 оборотов минимум
+               (чередование ног, за один считается исполнение с двух ног)
+           </description>
+           <repetition>5</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>1-е прыжки со скакалкой</title>
+           <description>
+               2 серии по 50 прыжков
+           </description>
+           <repetition>2</repetition>
+           <youtube></youtube>
+       </exercise>
+       <exercise>
+           <title>бег на месте</title>
+           <description>
+               продолжительность: 1 х 2 мин
+           </description>
+           <repetition>1</repetition>
+           <youtube></youtube>
+       </exercise>
+    </checklist>
+</xml>

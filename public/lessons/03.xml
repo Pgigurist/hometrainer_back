@@ -1,0 +1,143 @@
+<xml>
+    <checklist>
+        <exercise>
+           <title>бег на месте</title>
+           <description>
+               продолжительность: 2 х 30 секунд
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/BmJgprEP_c8?t=8</youtube>
+       </exercise>
+       <exercise>
+           <title>бег на месте с высоким подниманием колен</title>
+           <description>
+               продолжительность: 2 х 15 секунд
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/tq1tDe20VDo?t=7</youtube>
+       </exercise>
+       <exercise>
+           <title>бег на месте с захлестом голени</title>
+           <description>
+               продолжительность: 2 х 15 секунд
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/Ai3-uDIc_4A?t=5</youtube>
+       </exercise>
+       <exercise>
+           <title>выпрыгивания вверх с двух ног</title>
+           <description>
+               дозировка: 3х10
+           </description>
+           <repetition>3</repetition>
+           <youtube>https://youtu.be/1EK2GTidx5k?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>скручивания туловища</title>
+           <description>
+               инвентарь: палка 
+               задача: 
+               При скручивании таз остается неподвижным, поворачивается верняя часть туловища. Руки удерживают палку перед собой на вытянутых руках.
+               дозировка: 2 х 10 (считается каждое скручивание)
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/vIyxn9R8LbI?t=5</youtube>
+       </exercise>
+       <exercise>
+           <title>перешагивания палки</title>
+           <description>
+               инвертарь: палка
+               задача:
+               Перешагивания выполняются через палку вперед, палка удерживается на вытянутых руках за концы.
+               дозировка: 2 х 5 перешагиваний (считается полное перешагивание палки (обе ноги за один раз))
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/Pfkrv1ROaGI?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>прокруты в плечевом суставе</title>
+           <description>
+               инвентарь: палка
+               задача:
+               Палка удерживается руками за оба конца. При прокруте, необходимо держать руки прямыми
+               дозировка: 2 х 10 (считается каждый прокрут)
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/oor0qb3eFGk?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>перепрыгивания скакалки</title>
+           <description>
+               инвентарь: скакалка
+               задача:
+               Скакалка удерживается руками, прыжок выполняется без вращения скакалки. При исполнении прыжка следить за отталкиванием. Необходимо отталкивание двумя ногами. После успешного освоения необходимо добавить прокрут скакалки.
+               дозировка: 1 х 20
+           </description>
+           <repetition>1</repetition>
+           <youtube>https://youtu.be/FgHxCleQ03M?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>лыжник</title>
+           <description>
+                задача:
+                Круговые движения руками в разные стороны (исполняется только половина оборота)
+                дозировка: 3 х 10 (считается каждая смена положения)
+           </description>
+           <repetition>3</repetition>
+           <youtube>https://youtu.be/hv80lGX7oEA?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>скрестные махи ногами</title>
+           <description>
+               исходное положение: стоя, ноги на ширине плеч.
+               задача:
+               Руки в стороны. При выполнении маха необходимо коснуться кисти разноименной ноги.
+               дозировка: 1 х 20 (считается каждый мах)
+           </description>
+           <repetition>1</repetition>
+           <youtube>https://youtu.be/1oFRWqOpmDU</youtube>
+       </exercise>
+       <exercise>
+           <title>статика на полупальцах</title>
+           <description>
+            исходное положение стоя, ноги вместе, руки в стороны.
+            задача:
+            В начале упражнения необходимо вырасти на носки и удерживать это положение все упражнение.
+            дозировка: 4 х 10 
+           </description>
+           <repetition>4</repetition>
+           <youtube>https://youtu.be/wLVfPZavGb8?t=5</youtube>
+       </exercise>
+       <exercise>
+           <title>прыжок разножка</title>
+           <description>
+                исходное положение: стоя ноги вместе.
+                задача:
+                В воздухе необходимо принять положение ноги на ширине плеч, приземление выполняется в исходное положение.
+                дозировка: 1 х 15
+           </description>
+           <repetition>1</repetition>
+           <youtube>https://youtu.be/fB9aeP8JrYg?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>прыжок с хлопком ног</title>
+           <description>
+               исходное положение:
+               стоя ноги на ширине плеч.
+               задача:
+               В воздухе необходимо хлопнуть стопами друг о друга, не сгибая коленей. Приземление в исхлдное положение.
+               дозировка: 1 х 15
+           </description>
+           <repetition>1</repetition>
+           <youtube>https://youtu.be/bDakaCvSrwM?t=4</youtube>
+       </exercise>
+       <exercise>
+           <title>бег на месте, заминка</title>
+           <description>
+               продолжительность: 2 х 30 секунд
+           </description>
+           <repetition>2</repetition>
+           <youtube>https://youtu.be/BmJgprEP_c8?t=8</youtube>
+       </exercise>
+    </checklist>
+</xml>
